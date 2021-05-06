@@ -1,0 +1,2 @@
+Esto es un archivo de prueba
+Y eso es todo.
